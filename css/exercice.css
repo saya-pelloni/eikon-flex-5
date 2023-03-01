@@ -24,6 +24,13 @@
   flex-flow: row wrap;
 }
 /* 5. exercice-flow-2 */
+.exercice-flow-2 .container {
+  display: flex;
+  flex-direction: column;
+  flex-direction: row;
+
+}
+
 
 /* 6. exercice-all-in-1 */
 
