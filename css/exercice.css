@@ -5,7 +5,11 @@
   align-items: baseline;
 }
 
-/* 2. exercice-baseline-2 */s
+/* 2. exercice-baseline-2 */
+.exercice-baseline-2 .container {
+  display: flex;
+  
+}
 
 /* 3. exercice-baseline-3 */
 
