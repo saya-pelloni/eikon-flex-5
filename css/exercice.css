@@ -23,6 +23,7 @@
   display: flex;
   flex-flow: row wrap;
 }
+
 /* 5. exercice-flow-2 */
 .exercice-flow-2 .container {
   display: flex;
@@ -39,6 +40,10 @@
   order: -1;
 }
 
-
-
 /* 7. exercice-all-in-2 */
+.exercice-all-in-2 .container {
+  display: flex;
+  align-items: center;
+
+}
+
