@@ -1,6 +1,11 @@
 /* 1. exercice-baseline-1 */
+.exercice-baseline-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
 
-/* 2. exercice-baseline-2 */
+/* 2. exercice-baseline-2 */s
 
 /* 3. exercice-baseline-3 */
 
